@@ -3,7 +3,7 @@ import requests
 import allure
 from jsonschema import validate
 
-BASE_URL = "https://dummyjson.com/products"
+BASE_URL = "https://fakestoreapi.com/products"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 
